@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dhruval,  . Welcome to my GitHub profile!
+I'm Dhruval Patel,  . Welcome to my GitHub profile!
 
 ## About Me
 
