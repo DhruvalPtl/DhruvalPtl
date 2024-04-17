@@ -27,7 +27,7 @@ I'm Dhruval,  . Welcome to my GitHub profile!
 
 ## Let's Connect
 
-- [LinkedIn](Link to your LinkedIn profile)
+- [LinkedIn] www.linkedin.com/in/dhruval-patel-063543246
 - [Twitter](Link to your Twitter profile)
 - [Personal Website/Blog](Link to your website/blog)
 
