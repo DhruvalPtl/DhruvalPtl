@@ -21,15 +21,10 @@ I'm Dhruval Patel,  . Welcome to my GitHub profile!
 
 ## Recent Projects
 
-- [Project Name](Link to Project Repository)
-- [Project Name](Link to Project Repository)
-- [Project Name](Link to Project Repository)
-
 ## Let's Connect
 
 - LinkedIn:- www.linkedin.com/in/dhruval-patel-063543246
-- [Twitter](Link to your Twitter profile)
-- [Personal Website/Blog](Link to your website/blog)
+
 
 Feel free to explore my repositories and don't hesitate to reach out!
 <!---
