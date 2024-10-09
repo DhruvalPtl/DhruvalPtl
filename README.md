@@ -17,7 +17,7 @@ I'm Dhruval Patel,  . Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical)](https://github.com/DhruvalPtl)
 
 ## Recent Projects
 
