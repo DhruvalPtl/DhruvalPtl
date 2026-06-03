@@ -99,20 +99,22 @@ Multimodal healthcare assistant featuring three separate deep learning architect
 | 🎨 Generative AI | Detection pipelines for AI-generated content |
 | 🔁 Reinforcement Learning | Meta-learning for automatic reward shaping |
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/DhruvalPtl)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalPtl&layout=compact&theme=radical&hide_border=true)](https://github.com/DhruvalPtl)
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical&count_private=true&hide_border=true&v=2026" width="49%" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalPtl&layout=compact&theme=radical&hide_border=true&v=2026" width="49%" alt="Top Languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DhruvalPtl&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <br/><br/>
+
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=DhruvalPtl&theme=radical&hide_border=true" width="99%" alt="GitHub Streak" />
 
 </div>
-
----
 
 ## 🤝 Let's Connect
 
