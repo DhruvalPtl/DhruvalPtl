@@ -37,7 +37,7 @@ A large-scale peer-reviewed CV benchmark (30K balanced images) **published on IE
 ---
 
 ### 🤖 [Agentic RAG Bug Hunter](https://github.com/DhruvalPtl/infineon-hackathon-agentic-bug-hunter)
-🏆 **1st Place — Infineon Technologies Hackathon** — Autonomous 4-agent debugging pipeline orchestrating specialized async agents (Documentation Retrieval → Diagnostic Analysis → Correction → QA Validation) for line-precise C++ bug detection and repair, with structured JSON/CSV reporting.
+**Infineon Technologies Hackathon** — Autonomous 4-agent debugging pipeline orchestrating specialized async agents (Documentation Retrieval → Diagnostic Analysis → Correction → QA Validation) for line-precise C++ bug detection and repair, with structured JSON/CSV reporting.
 
 `Pydantic-AI` `FastMCP` `LlamaIndex` `BAAI Embeddings` `HuggingFace API`
 
