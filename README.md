@@ -105,8 +105,8 @@ Multimodal healthcare assistant featuring three separate deep learning architect
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-1a8rmh7zj-dhruval-s-projects1.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/DhruvalPtl)
-[![Top Languages](https://github-readme-stats-1a8rmh7zj-dhruval-s-projects1.vercel.app/api/top-langs/?username=DhruvalPtl&layout=compact&theme=radical&hide_border=true)](https://github.com/DhruvalPtl)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/DhruvalPtl)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalPtl&layout=compact&theme=radical&hide_border=true)](https://github.com/DhruvalPtl)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DhruvalPtl&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
