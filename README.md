@@ -3,7 +3,7 @@
 # Hey, I'm Dhruval Patel 👋
 ### M.Tech AI · PDEU | Research Intern · IIT Gandhinagar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Causal+Deep+Learning+%7C+Agentic+AI;Computer+Vision+%7C+Generative+AI;Building+systems+that+reason+and+act.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hybrid+Graph+RAG+%7C+Agentic+AI;Computer+Vision+%7C+Generative+AI;Building+systems+that+reason+and+act.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DhruvalPtl&color=6E40C9&style=flat&label=Profile+Views)
 
@@ -13,13 +13,22 @@
 
 ## 🎯 About Me
 
-AI/ML engineer and graduate researcher building at the intersection of **causal deep learning**, **autonomous agentic systems**, and **computer vision**. Currently interning at **IIT Gandhinagar**, working on LLM-driven autonomous systems and deep learning research.
+AI/ML engineer and graduate researcher building at the intersection of **hybrid graph RAG**, **autonomous agentic systems**, and **computer vision**. Currently interning at **IIT Gandhinagar**, working on LLM-driven autonomous systems and deep learning research.
 
-**Research Interests:** Reinforcement Learning · Causal Factor Discovery · Generative AI · Agentic Pipelines · Computer Vision
+**Research Interests:** Hybrid Graph RAG · Autonomous Agentic Systems · Reinforcement Learning · Generative AI · Computer Vision
 
 ---
 
 ## 🔬 Featured Projects
+
+### 🕸️ [Enterprise Graph RAG](https://github.com/DhruvalPtl/Enterprise-Graph-RAG)
+Production-grade hybrid Document Intelligence platform combining dense vector search (PostgreSQL `pgvector` with HNSW), sparse BM25, and a zero-JVM relational Knowledge Graph with bounded 2-hop BFS traversal, fused via Reciprocal Rank Fusion (RRF) and neural Cross-Encoder reranking.
+- Features pre-retrieval SQL-level RBAC (6 departments, 4 clearance tiers) with dynamic permission updates and zero re-embedding overhead.
+- Validated on standard multi-hop benchmarks (**QASPER**, **MuSiQue**, and **GraphRAG-Bench / ICLR**), achieving **100% multi-hop recall**, 97.9% seed hit rate, and hallucination-free generation via chunk-level citation provenance.
+
+`FastAPI` `PostgreSQL / pgvector` `Cross-Encoder` `Gemini` `Streamlit` `Docker`
+
+---
 
 ### ⚔️ [RewardForge](https://github.com/DhruvalPtl/Rewardforge)
 An autonomous LLM-driven reward shaping framework using Stable-Baselines3 (PPO) and Qwen3-32B via Groq API to dynamically rewrite environment reward functions based on real-time training telemetry and curve-stagnation analysis.
@@ -43,13 +52,6 @@ A large-scale peer-reviewed CV benchmark (30K balanced images) **published on IE
 
 ---
 
-### 🧠 [Causal Deep Learning](https://github.com/DhruvalPtl/Causal_Deep_Learning)
-PyTorch implementation of multilinear causal factor discovery ([arXiv:2301.00314](https://arxiv.org/abs/2301.00314)). Structures raw data as M-mode tensors to explicitly disentangle independent causal factors (identity, expression, illumination) using Causal Capsules, Tensor Transformers, and Inverse Causal Networks across 4 visual validation experiments.
-
-`PyTorch` `Tensor Operations` `Causal Capsules` `Tensor Transformers`
-
----
-
 ### 🖥️ [TriVision v3.0](https://github.com/DhruvalPtl/TriVision)
 A unified desktop CV workbench consolidating **130+ algorithms** spanning enhancement, restoration, compression, and analysis into a single graphical workspace — with real-time PSNR/SSIM/RMSE metric tracking, batch processing pipelines, and a custom plugin SDK.
 
@@ -66,26 +68,29 @@ Multimodal healthcare assistant featuring three separate deep learning architect
 
 ## 💻 Tech Stack
 
-**Languages**
+**Languages & Databases**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white)
 
-**Deep Learning & ML**
+**Deep Learning & ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**Frameworks & Tools**
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-4B8BBE?style=flat)
+**Frameworks, Backend & Systems**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat)
 ![Pydantic-AI](https://img.shields.io/badge/Pydantic--AI-1E90FF?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-4B8BBE?style=flat)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-000000?style=flat)
 
 ---
@@ -94,21 +99,12 @@ Multimodal healthcare assistant featuring three separate deep learning architect
 
 | Area | Focus |
 |---|---|
-| 🧮 Causal Deep Learning | Tensor-based causal factor discovery & representation learning |
-| 🤖 Agentic AI | Autonomous multi-agent reasoning frameworks |
-| 🎨 Generative AI | Detection pipelines for AI-generated content |
-| 🔁 Reinforcement Learning | Meta-learning for automatic reward shaping |
+| 🕸️ Graph RAG & Document AI | Relational Knowledge Graphs, hybrid retrieval & multi-hop reasoning |
+| 🤖 Agentic AI | Autonomous multi-agent reasoning & verification frameworks |
+| 🎨 Generative AI | Detection pipelines for AI-generated visual & textual content |
+| 🔁 Reinforcement Learning | Meta-learning for automated environment reward shaping |
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-  [![GitHub Stats](https://github-readme-stats-rust-nine-88.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/DhruvalPtl)
-  [![Top Languages](https://github-readme-stats-rust-nine-88.vercel.app/api/top-langs/?username=DhruvalPtl&layout=compact&theme=radical&hide_border=true)](https://github.com/DhruvalPtl)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DhruvalPtl&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+---
 
 ## 🤝 Let's Connect
 
@@ -124,5 +120,5 @@ Multimodal healthcare assistant featuring three separate deep learning architect
 ---
 
 <div align="center">
-<sub>⚡ Causal AI · Agentic Systems · Computer Vision · Generative AI</sub>
+<sub>⚡ Graph RAG · Agentic Systems · Computer Vision · Generative AI</sub>
 </div>
